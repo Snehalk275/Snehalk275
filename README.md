@@ -32,8 +32,8 @@
 
 
 ### Contact Me
-[![LinkedIn](https://img.shields.io/badge/-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername) 
-[![Twitter](https://img.shields.io/badge/-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/yourusername) 
-[![Instagram](https://img.shields.io/badge/-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/snehal-kothawade) 
+[![Twitter](https://img.shields.io/badge/-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/snehal_ko) 
+[![Instagram](https://img.shields.io/badge/-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/sn3hal_)
 
 
