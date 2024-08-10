@@ -1,6 +1,6 @@
 # Hi, I'm Snehal Kothawade 
 
-![Coding GIF](https://giphy.com/embed/L1R1tvI9svkIWwpVYr)
+![Coding GIF](https://giphy.com/embed/L1R1tvI9svkIWwpVYr/giphy.gif)
 
 🚀 Crafting code that bridges gaps—exploring the intersection of web development and accessibility.
 
