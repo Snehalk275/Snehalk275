@@ -32,5 +32,6 @@
 
 ## Contact me
 
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/snehal_ko)
+[[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/snehal-kothawade)
+[![Twitter](https://img.shields.io/badge/-Twitter-000000?style=flat&logo=twitter&logoColor=white)](https://twitter.com/snehal_ko)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/sn3hal_)
