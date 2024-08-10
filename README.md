@@ -1,4 +1,5 @@
-# Hi, I'm Snehal Kothawade 
+## Hi there 👋
+I’m Snehal
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
 
