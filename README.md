@@ -4,15 +4,13 @@
 
 🚀 Crafting code that bridges gaps—exploring the intersection of web development and accessibility.
 
-🎓 I'm a final-year Computer Engineering student with a flair for transforming ideas into elegant code.
-
 💻 I am passionate about empowering the digital world with a blend of Java, Python, and web technologies.
 
 🌟 Driven by curiosity, I'm on a mission to make technology more inclusive and impactful.
 
 🔧 I enjoy turning complex problems into simple, user-friendly solutions—one line of code at a time.
 
-📫 How to reach me: https://www.instagram.com/sn3hal_/
+
 
 ##### Languages I use:
 
@@ -30,3 +28,9 @@
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power%20bi&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+
+## Contact me
+
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/snehal_ko)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/sn3hal_)
