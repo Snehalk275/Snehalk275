@@ -1,6 +1,6 @@
 # Hi, I'm Snehal Kothawade 
 
-<img align="right" alt="GIF" height="160px" src="https://giphy.com/embed/L1R1tvI9svkIWwpVYr/giphy.gif" />
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
 
 🚀 Crafting code that bridges gaps—exploring the intersection of web development and accessibility.
 
@@ -12,7 +12,6 @@
 
 🔧 I enjoy turning complex problems into simple, user-friendly solutions—one line of code at a time.
 
-
 ##### Languages I use:
 
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
@@ -21,7 +20,6 @@
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
-
 
 ## Tools
 
