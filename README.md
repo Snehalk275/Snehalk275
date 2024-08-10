@@ -35,4 +35,3 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername)
 [![Twitter](https://img.shields.io/badge/-Twitter-000000?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/yourusername)
-
