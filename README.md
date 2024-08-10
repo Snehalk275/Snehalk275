@@ -2,11 +2,12 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
--🚀 Crafting code that bridges gaps—exploring the intersection of web development and accessibility.
--🎓 Final-year Computer Engineering student with a flair for transforming ideas into elegant code.
--💻 Empowering the digital world with a blend of Java, Python, and web technologies
--🌟 Driven by curiosity, I'm on a mission to make technology more inclusive and impactful.
--🔧 Turning complex problems into simple, user-friendly solutions—one line of code at a time.
+
+🚀 Crafting code that bridges gaps—exploring the intersection of web development and accessibility.
+🎓 I'm a final-year Computer Engineering student with a flair for transforming ideas into elegant code.
+💻 I am passionate about empowering the digital world with a blend of Java, Python, and web technologies.
+🌟 Driven by curiosity, I'm on a mission to make technology more inclusive and impactful.
+🔧 I enjoy turning complex problems into simple, user-friendly solutions—one line of code at a time.
 
 
 ##### Languages I use:
