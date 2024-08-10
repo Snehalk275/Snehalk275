@@ -12,6 +12,8 @@
 
 🔧 I enjoy turning complex problems into simple, user-friendly solutions—one line of code at a time.
 
+- 📫 How to reach me: https://www.instagram.com/sn3hal_/
+
 ##### Languages I use:
 
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
