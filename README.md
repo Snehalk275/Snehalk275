@@ -1,6 +1,6 @@
 # Hi, I'm Snehal Kothawade 
 
-<img align="right" alt="GIF" height="160px" src="https://giphy.com/embed/L1R1tvI9svkIWwpVYr.gif" />
+<img align="right" alt="GIF" height="160px" src="https://giphy.com/embed/L1R1tvI9svkIWwpVYr/giphy.gif" />
 
 
 🚀 Crafting code that bridges gaps—exploring the intersection of web development and accessibility.
