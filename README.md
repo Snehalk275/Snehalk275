@@ -30,10 +30,10 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 
-## Contact me
 
-[![LinkedIn](https://img.shields.io/badge/-0A66C2?style=flat&logo=linkedin&logoColor=white&labelColor=0A66C2&logoWidth=21)](https://www.linkedin.com/in/snehal-kothawade)
-[![Twitter](https://img.shields.io/badge/-000000?style=flat&logo=x&logoColor=white&labelColor=000000&logoWidth=21)](https://twitter.com/snehal_ko)
-[![Instagram](https://img.shields.io/badge/-E4405F?style=flat&logo=instagram&logoColor=white&labelColor=E4405F&logoWidth=21)](https://instagram.com/sn3hal_)
+### Contact Me
+[![LinkedIn](https://img.shields.io/badge/-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername) 
+[![Twitter](https://img.shields.io/badge/-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/yourusername) 
+[![Instagram](https://img.shields.io/badge/-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/yourusername)
 
 
