@@ -32,7 +32,8 @@
 
 ## Contact me
 
-[![LinkedIn](https://img.shields.io/badge/-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/yourusername)
-[![Twitter](https://img.shields.io/badge/-000000?style=flat-square&logo=twitter&logoColor=white&labelColor=000000)](https://twitter.com/yourusername)
-[![Instagram](https://img.shields.io/badge/-E4405F?style=flat-square&logo=instagram&logoColor=white&labelColor=E4405F)](https://instagram.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/-0A66C2?style=flat&logo=linkedin&logoColor=white&labelColor=0A66C2&logoWidth=24)](https://www.linkedin.com/in/yourusername)
+[![Twitter](https://img.shields.io/badge/-000000?style=flat&logo=x&logoColor=white&labelColor=000000&logoWidth=24)](https://twitter.com/yourusername)
+[![Instagram](https://img.shields.io/badge/-E4405F?style=flat&logo=instagram&logoColor=white&labelColor=E4405F&logoWidth=24)](https://instagram.com/yourusername)
+
 
