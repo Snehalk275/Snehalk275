@@ -12,7 +12,7 @@
 
 🔧 I enjoy turning complex problems into simple, user-friendly solutions—one line of code at a time.
 
-- 📫 How to reach me: https://www.instagram.com/sn3hal_/
+📫 How to reach me: https://www.instagram.com/sn3hal_/
 
 ##### Languages I use:
 
