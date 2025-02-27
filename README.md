@@ -2,13 +2,11 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
 
-🚀 Crafting code that bridges gaps—exploring the intersection of web development and accessibility.
 
-💻 I am passionate about empowering the digital world with a blend of Java, Python, and web technologies.
-
-🌟 Driven by curiosity, I'm on a mission to make technology more inclusive and impactful.
-
-🔧 I enjoy turning complex problems into simple, user-friendly solutions—one line of code at a time.
+"Building Tech for People
+I'm a software developer who cares about making technology accessible to everyone. I use Java, Python, and web technologies to create simple, user-friendly solutions that make a difference.
+I believe that tech should be a tool for good, not just a fancy gadget. So, I design and develop software that's easy to use, regardless of who you are or how you use the internet.
+Let's make technology more inclusive, one line of code at a time."
 
 
 
