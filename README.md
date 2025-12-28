@@ -2,30 +2,15 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
 
-I’m a **Data Analyst & SQL Enthusiast** who loves turning raw data into clear insights.
+I’m an aspiring Data Analyst with a strong interest in SQL and data analytics.
+I work with SQL, Python, Excel and Power BI to analyze data, find patterns and build dashboards.
+2025 Computer Engineering graduate actively building my analytics portfolio.
 
-I enjoy working with **SQL, Python, Excel and Power BI** to analyze datasets, find patterns and create meaningful dashboards.  
-My focus is on building **real-world, practical data projects** that show how data can be used to support business decisions.
+🛠 Skills:
+SQL • Python • Excel • Power BI • GitHub
 
-I am a **2025 Computer Engineering graduate** actively building my portfolio and preparing for Data Analyst roles.
-
-### 🛠️ Skills & Tools
-- **SQL** (Joins, CTEs, Window Functions, Analytics)
-- **Python** (Pandas, NumPy, Data Analysis)
-- **Excel** (Data Cleaning, Pivot Tables)
-- **Power BI** (Dashboards & Data Modeling)
-- **Git & GitHub**
-
-### 📊 What you’ll find here
-- SQL projects using real datasets  
-- Data analysis with Python  
-- Power BI dashboards  
-- Practice and case-study based analytics  
-
-Each repository includes:
-- Business questions  
-- SQL / Python logic  
-- Insights & conclusions  
+📊 What you’ll find here:
+SQL projects, Python analysis, Power BI dashboards, and real-world case studies with business insights.
 
 ### 🔗 Connect with me
 
