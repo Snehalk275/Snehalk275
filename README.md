@@ -1,4 +1,3 @@
-## Hi there 👋 I’m Snehal
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
 
@@ -30,7 +29,7 @@ Each repository includes:
 - Insights & conclusions  
 
 ### 🔗 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Snehal%20Kothawade-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/snehal-kothawade-958b65244)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/snehal-kothawade-958b65244)
 [![GitHub](https://img.shields.io/badge/GitHub-sn3hal_-181717?style=flat&logo=github&logoColor=white)](https://github.com/sn3hal)  
 [![Instagram](https://img.shields.io/badge/Instagram-sn3hal_-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/sn3hal_)
 
