@@ -1,7 +1,6 @@
+## Hi 👋 I’m Snehal
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
-
-## Hi 👋 I’m Snehal
 
 I’m a **Data Analyst & SQL Enthusiast** who loves turning raw data into clear insights.
 
@@ -29,9 +28,11 @@ Each repository includes:
 - Insights & conclusions  
 
 ### 🔗 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/snehal-kothawade-958b65244)
-[![GitHub](https://img.shields.io/badge/GitHub-sn3hal_-181717?style=flat&logo=github&logoColor=white)](https://github.com/sn3hal)  
-[![Instagram](https://img.shields.io/badge/Instagram-sn3hal_-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/sn3hal_)
+### Connect with me  
+[![LinkedIn](https://cdn-icons-png.flaticon.com/512/174/174857.png)](https://www.linkedin.com/in/your-linkedin)
+[![GitHub](https://cdn-icons-png.flaticon.com/512/25/25231.png)](https://github.com/your-github)
+[![Instagram](https://cdn-icons-png.flaticon.com/512/2111/2111463.png)](https://www.instagram.com/your-instagram)
+
 
 
 
